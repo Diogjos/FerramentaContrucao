@@ -14,7 +14,7 @@ export default function App() {
     <Tab.Navigator>
       <Tab.Screen name='Design' component={Design}
       options={{
-        tabBarLabel: 'Design',
+        tabBarLabel: 'Designn',
         tabBarIcon: ({ color, size }) => (
           <MaterialCommunityIcons name="format-paint" size={24} color="royalblue" />
         ),
